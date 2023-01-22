@@ -1,3 +1,3 @@
 # Receipt-Handler
-C++
+C++. 
 This program reads receipts from a file and calculates who owns who
